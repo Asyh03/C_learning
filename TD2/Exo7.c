@@ -33,7 +33,5 @@ int main(){
     }
     printf("meilleur a :%d\n meilleur k :%d\n",meilleur_a,meilleur_k);
 
-
-
     return 0;
 }
