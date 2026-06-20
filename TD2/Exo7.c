@@ -7,8 +7,6 @@ int main(){
     scanf("%d",&l);
     int meilleur_a = 0;
     int meilleur_k = 0;
-    
-    
 
     for(int a = 2;a<=l;a++){
         int u0 = a;
